@@ -53,3 +53,20 @@ It simulates a gym membership system where:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Diyaaaa20/GymManagementSystem.git
+   Open the project in your IDE (VS Code / IntelliJ / Eclipse)
+
+2.Compile the file:
+
+javac GymSystem.java
+
+3.Run the program:
+
+java GymSystem
+
+## Future Improvements
+
+Add GUI (JavaFX / React Frontend)
+Add Database (MySQL)
+Add Payment Integration
+Add Admin Panel
+Deploy as Full Stack Application
