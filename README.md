@@ -66,7 +66,11 @@ java GymSystem
 ## Future Improvements
 
 Add GUI (JavaFX / React Frontend)
+
 Add Database (MySQL)
+
 Add Payment Integration
+
 Add Admin Panel
+
 Deploy as Full Stack Application
